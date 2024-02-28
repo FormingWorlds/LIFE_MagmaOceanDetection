@@ -6,3 +6,4 @@ It uses the 'lifesim' python package and 'spectres' to simulate observations of 
 Download and run the notebook in Jupyter to obtain all the figures.
 
 To install lifesim, follow: https://lifesim.readthedocs.io
+Information on spectres package: https://pypi.org/project/spectres/
